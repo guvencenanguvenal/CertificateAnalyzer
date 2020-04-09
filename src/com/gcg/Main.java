@@ -75,7 +75,6 @@ public class Main {
                 return;
             }
 
-
             KeyStore ks = KeyStore.getInstance(type);
 
             if (null == pwdArray) {
